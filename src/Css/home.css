@@ -1,0 +1,21 @@
+/* Home.css */
+.home-container {
+    text-align: center;
+  }
+  
+  .action-button1 {
+    width: 120px; /* Set the desired width */
+    margin: 5px; /* Add margin for spacing */
+  }
+
+  .action-button {
+    width: 150px; /* Set the desired width */
+    margin: 5px; /* Add margin for spacing */
+  }
+
+  .role-container {
+    display: flex;
+    flex-direction: column; /* Align buttons vertically */
+    align-items: center; /* Center buttons horizontally */
+    margin-top: 20px;  }
+  
